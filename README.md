@@ -6,8 +6,8 @@ This app uses the OpenWeatherMap API to search for a city and displays the curre
 
 # User Story
 
-AS a person travels frequently,
-I WANT to be able pack appropriately
+AS a person who travels frequently,
+I WANT to know what the weather will be
 SO THAT I be prepared wherever I go.
 
 # Libraries/Technologies Used

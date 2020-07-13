@@ -14,6 +14,7 @@ SO THAT I be prepared wherever I go.
 
 - Javascipt
 - HTML
+- Bootstrap
 - CSS
 
 # Deployed Application

@@ -1,4 +1,21 @@
-# weather-app
+# Travel Forecast
 
-Uses openweathermap API to search for a city and displays the current weather data for that city as well as a 5-day forecast.
+![Travel Forecast Homepage](/images/travel-forecast.jpg "Travel Forecast Homepage")
 
+This app uses the OpenWeatherMap API to search for a city and displays the current weather data for that city as well as a 5-day forecast.
+
+# USER STORY
+
+AS a person travels frequently,
+I WANT to be able pack appropriately
+SO THAT I be prepared wherever I go.
+
+# Libraries/Technologies Used
+
+- Javascipt
+- HTML
+- CSS
+
+# Deployed Application
+
+https://myfyrefly.github.io/travel-forecast/
